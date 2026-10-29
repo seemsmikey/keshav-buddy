@@ -1,0 +1,2 @@
+[tool.ruff.lint.isort]
+known-first-party = ["app", "config", "embeddings", "ingest", "rag"]
